@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\giupdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\giupdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomh\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomh\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomh\u0111theosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomh\u0111theosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\quanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dmnhomh\u0111theokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dmnhomh\u0111theokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomh\u0111theosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomh\u0111theosp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomkhtheotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomkhtheotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomh\u0111theonv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomh\u0111theonv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|c:\\users\\user\\onedrive\\desktop\\baitapnho\\baikiemtra28_2\\dsnhomh\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomh\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dmnhomh\u0111theokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dmnhomh\u0111theokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomcth\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomcth\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomcth\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomcth\u0111theonv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\dsnhomkhtheotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\dsnhomkhtheotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F3AB0-D060-488D-A471-349170D289C3}|baikiemtra28_2\\baikiemtra28_2.csproj|solutionrelative:baikiemtra28_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiupDo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\GiupDo.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\GiupDo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\GiupDo.cs [Design]*",
+              "RelativeToolTip": "baikiemtra28_2\\GiupDo.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:08:24.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DSnhomH\u0110theoNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoNV.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomH\u0110theoNV.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoNV.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomH\u0110theoNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:26:35.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\FormDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\FormDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:13:50.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DSnhomH\u0110theoSP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoSP.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomH\u0110theoSP.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoSP.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomH\u0110theoSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:06:54.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\frmMain.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\frmMain.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\frmMain.cs",
+              "RelativeToolTip": "baikiemtra28_2\\frmMain.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIA/wFYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T02:09:16.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\frmMain.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\frmMain.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\frmMain.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T10:03:49.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyNguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\QuanLyNguoiDung.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\QuanLyNguoiDung.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\QuanLyNguoiDung.cs",
+              "RelativeToolTip": "baikiemtra28_2\\QuanLyNguoiDung.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAlwIUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:02:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyNguoiDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\QuanLyNguoiDung.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\QuanLyNguoiDung.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\QuanLyNguoiDung.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\QuanLyNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:52:39.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DMnhomH\u0110theoKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DMnhomH\u0110theoKH.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DMnhomH\u0110theoKH.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DMnhomH\u0110theoKH.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\DMnhomH\u0110theoKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:06:27.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DSnhomH\u0110theoSP.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoSP.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomH\u0110theoSP.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoSP.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomH\u0110theoSP.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAApwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T02:34:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DangNhap.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DangNhap.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T05:55:35.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DangNhap.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DangNhap.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DangNhap.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:09:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DSnhomKHtheoTP.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomKHtheoTP.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomKHtheoTP.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomKHtheoTP.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomKHtheoTP.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:35:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDoiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\FormDoiMatKhau.cs",
+              "RelativeToolTip": "baikiemtra28_2\\FormDoiMatKhau.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:25:14.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DSnhomH\u0110theoNV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoNV.Designer.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomH\u0110theoNV.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoNV.Designer.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomH\u0110theoNV.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:37:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DSnhomH\u0110theoNV.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoNV.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomH\u0110theoNV.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomH\u0110theoNV.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomH\u0110theoNV.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:27:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DMnhomH\u0110theoKH.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DMnhomH\u0110theoKH.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DMnhomH\u0110theoKH.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DMnhomH\u0110theoKH.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DMnhomH\u0110theoKH.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:17:18.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DSnhomCTH\u0110theoNV.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:39:15.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DSnhomCTH\u0110theoNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs",
+              "ToolTip": "C:\\Users\\tiena\\source\\repos\\baikiemtra28_2\\baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\tiena\\source\\repos\\baikiemtra28_2\\baikiemtra28_2\\DSnhomCTH\u0110theoNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:27:49.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DSnhomKHtheoTP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomKHtheoTP.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\DSnhomKHtheoTP.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\DSnhomKHtheoTP.cs [Design]",
+              "RelativeToolTip": "baikiemtra28_2\\DSnhomKHtheoTP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:40:33.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\Program.cs",
+              "RelativeDocumentMoniker": "baikiemtra28_2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\baitapnho\\baikiemtra28_2\\Program.cs",
+              "RelativeToolTip": "baikiemtra28_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:31:06.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
